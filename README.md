@@ -1,5 +1,5 @@
 # 💫 About Me:
-~learning front end development.<br>~finished css and html, on the way to javascript!<br>~practicing!
+~learning front end development.<br>~finished css and html, almost done w javascript!!<br>~practicing!
 
 
 ## 🌐 Socials:
